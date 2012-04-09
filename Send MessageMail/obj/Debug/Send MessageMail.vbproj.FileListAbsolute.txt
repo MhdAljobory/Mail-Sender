@@ -1,0 +1,20 @@
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\Send MessageMail\Send MessageMail\bin\Debug\Send MessageMail.exe
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\Send MessageMail\Send MessageMail\bin\Debug\Send MessageMail.pdb
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\Send MessageMail\Send MessageMail\bin\Debug\Send MessageMail.xml
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\Send MessageMail\Send MessageMail\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\Send MessageMail\Send MessageMail\obj\Debug\Send_MessageMail.frm.resources
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\Send MessageMail\Send MessageMail\obj\Debug\Send_MessageMail.Resources.resources
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\Send MessageMail\Send MessageMail\obj\Debug\Send MessageMail.vbproj.GenerateResource.Cache
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\Send MessageMail\Send MessageMail\obj\Debug\Send MessageMail.exe
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\Send MessageMail\Send MessageMail\obj\Debug\Send MessageMail.xml
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\Send MessageMail\Send MessageMail\obj\Debug\Send MessageMail.pdb
+D:\Projects\VB.net\Send MessageMail\Send MessageMail\obj\Debug\Send MessageMail.exe
+D:\Projects\VB.net\Send MessageMail\Send MessageMail\obj\Debug\Send MessageMail.xml
+D:\Projects\VB.net\Send MessageMail\Send MessageMail\obj\Debug\Send MessageMail.pdb
+D:\Projects\VB.net\Send MessageMail\Send MessageMail\bin\Debug\Send MessageMail.exe
+D:\Projects\VB.net\Send MessageMail\Send MessageMail\bin\Debug\Send MessageMail.pdb
+D:\Projects\VB.net\Send MessageMail\Send MessageMail\bin\Debug\Send MessageMail.xml
+D:\Projects\VB.net\Send MessageMail\Send MessageMail\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\VB.net\Send MessageMail\Send MessageMail\obj\Debug\Send_MessageMail.frm.resources
+D:\Projects\VB.net\Send MessageMail\Send MessageMail\obj\Debug\Send_MessageMail.Resources.resources
+D:\Projects\VB.net\Send MessageMail\Send MessageMail\obj\Debug\Send MessageMail.vbproj.GenerateResource.Cache
